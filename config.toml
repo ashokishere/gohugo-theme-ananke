@@ -1,8 +1,8 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://ashokishere.github.io/gohugo-theme-ananke/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+#resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
